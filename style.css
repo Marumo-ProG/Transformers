@@ -1,0 +1,32 @@
+.container{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.header h1{
+    font-family: verdana;
+    text-align: center;
+}
+.options{
+    font-family: verdana;
+    font-size: 0;
+}
+.options button{
+    width: 33.33%;
+    font-weight: bold;
+    height: 30px;
+    border: 0;
+    font-size: 15px;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+}
+.options button:hover{
+    transition-duration: 300ms;
+    color: blue;
+    cursor: pointer;
+    transform: scale(1.2);
+    background-color: white;
+}
+.Map{
+    border: 1px solid blue;
+}
