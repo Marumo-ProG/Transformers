@@ -1,6 +1,6 @@
 var map = document.getElementById("map");
 map.style.with = document.width;
-map.style.height = "650px";
+map.style.height = "600px";
 
 // making the map to display in the map section and also display my location
 function getLocation() {
