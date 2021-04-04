@@ -1,6 +1,10 @@
+body{
+    background-color: #999;
+}
 .container{
     padding-left: 10%;
     padding-right: 10%;
+    background-color: white;
 }
 .header h1{
     font-family: verdana;
