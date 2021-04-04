@@ -1,5 +1,8 @@
 body{
     background-color: #999;
+    padding: 0;
+    margin: 0;
+    height: 100%;
 }
 .container{
     padding-left: 10%;
